@@ -8,7 +8,7 @@ images=()
 # The image will be pushed to GitHub container registry
 repobase="${REPOBASE:-ghcr.io/nethserver}"
 # Configure the image name
-reponame="freeonlineoffice"
+reponame="ns8-freeonlineoffice"
 
 # Create a new empty container image
 container=$(buildah from scratch)
