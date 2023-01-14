@@ -1,7 +1,7 @@
-# ns8-collabora
+# ns8-freeonlineoffice
 
-Start and configure a collabora instance.
-The module uses [collabora Docker Image](https://hub.docker.com/r/collabora/code).
+Start and configure a freeonlineoffice instance.
+The module uses [freeonlineoffice Docker Image](https://hub.docker.com/r/freeonlineoffice/online).
 
 ## Install
 
