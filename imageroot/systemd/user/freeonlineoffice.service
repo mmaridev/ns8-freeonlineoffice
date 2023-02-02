@@ -1,5 +1,5 @@
 [Unit]
-Description=Podman  collabora.service
+Description=Podman  freeonlineoffice.service
 
 [Service]
 Environment=PODMAN_SYSTEMD_UNIT=%n
